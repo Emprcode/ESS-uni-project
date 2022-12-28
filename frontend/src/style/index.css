@@ -1,0 +1,69 @@
+.formwrap {
+  width: 50%;
+  margin: auto;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  padding: 2%;
+  border-style: groove;
+  border-width: 7px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.formtitle{
+  font-size: 40px;
+
+}
+
+.formlabel{
+  margin: auto;
+  border: solid red;
+}
+
+.imgcontainer img{
+  margin-bottom: 5%;
+  width: 70% !important;
+}
+
+.formcontent {
+  padding: 2%;
+  width: 65%;
+  border-radius: 10px;
+  margin: auto !important;
+}
+
+.formbtn{
+  width: 70%;
+  padding: 1%;
+  border-radius: 15px;
+  margin-top: 5%;
+  font-size: 25px;
+
+}
+
+.rememberme, .psw{
+
+  display: inline-block;
+  font-size: 20px;
+  margin-right: 7%;
+  margin-left: 7%;
+}
+
+
+.psw a{
+  text-decoration: none;
+  color: black;
+}
+
+.divider{
+  margin-top: 5%;
+}
+
+.createacc{
+  margin-top: 5%;
+  font-size: 22px;
+}
+
+.createacc a{
+  text-decoration: none;
+}

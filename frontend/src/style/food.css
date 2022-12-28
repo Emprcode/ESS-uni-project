@@ -1,0 +1,81 @@
+#food-wrapper{
+  align-self: center;
+  margin: 5% auto;
+  width: 45%;
+  border: solid 1px;
+  padding: 1%;
+}
+
+.food-content{
+  text-align: center;
+}
+
+.food-box{
+  width: 80%;
+  margin: auto;
+  margin-bottom: 5%
+}
+
+.food-p{
+  text-align: justify;
+  margin: auto;
+  margin-bottom: 5%;
+}
+
+.food-map{
+  width: 45%;
+  float: left;
+  margin-right: 10%;
+}
+
+.head-box{
+  padding: 1%;
+  width: 30%;
+  padding-left: 3%;
+  margin-right: 2%;
+}
+
+.box-in{
+  position: relative;
+  top: 50%;
+  left: 22px;
+  color: #ccc;
+  font-size: 17px;
+  pointer-events: none;
+}
+
+.food-img{
+  float: left;
+  margin-right: 3%;
+}
+
+.food-back{
+  font-weight: bold;
+  margin-left: 1%;
+  margin-right: 3%;
+}
+
+.food-btn{
+  font-size: 25px;
+  background-color: transparent;
+  margin-left: 2%;
+  color: #ccc;
+}
+
+.food-list{
+  width: 110%;
+  text-align: start !important;
+  margin: auto;
+}
+
+@media (max-width:800px) {
+  #food-wrapper{
+    width: 90%;
+  }
+}
+
+@media (max-width:600px) {
+  .food-map{
+    width: 100%;
+  }
+}

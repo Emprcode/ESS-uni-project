@@ -1,0 +1,53 @@
+#shelter-wrapper{
+  width: 48%;
+  min-width: 400px !important;
+  margin: 5% auto;
+  margin-bottom: 10%;
+  border: solid 3px;
+  padding: 2%;
+}
+
+#shelter-top{
+  text-align: center;
+  margin-bottom: 5%;
+}
+
+.shelter-head{
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.shelter-img{
+  width: 90%;
+}
+
+.shelter-back{
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.shelter-title{
+
+  text-align: center;
+}
+
+.shelter-box{
+  margin-top: 5%;
+}
+
+.shelter-box img{
+  height: 50%;
+  width: 40%;
+  margin-right: 2%;
+  float: left;
+}
+
+.shelter-text{
+  text-align: justify;
+}
+
+.shelter-content{
+  width: 80%;
+  margin: auto;
+}

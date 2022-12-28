@@ -1,0 +1,58 @@
+#settings-wrapper{
+  margin: 3% auto !important;
+  align-self: center;
+  width: 40%;
+  min-width: 400px !important;  
+}
+
+.setting-img{
+  width: 100%;
+  margin: auto;
+  padding: 0%;
+  margin-bottom: 5%;
+  text-align: center;
+  margin-top: 5%;
+}
+
+.setting-img img{
+  width: 90%;
+}
+
+.setting-title{
+  text-align: center;
+  font-weight: bold;
+}
+
+.setting-head{
+  display: inline-block;
+  width: 80%;
+  text-align: center;
+}
+
+.setting-back{
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.content-wrap{
+  text-align: center;
+}
+.setting-content{
+  border-radius: 10px;
+  display: inline-block;
+  width: 44%;
+  text-align: center;
+  background-color: #106370;
+  margin: 2%;
+}
+
+.setting-content a{
+  text-decoration: none;
+  color: white;
+  font: 16px bold;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.setting-content a:hover{
+  border-bottom: solid 2px;
+}

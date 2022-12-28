@@ -1,0 +1,20 @@
+#privacy-wrapper{
+  width: 70%;
+  margin: 4% auto;
+  margin-bottom: 8%;
+  padding: 2%;
+  color: black;
+}
+
+.privacy-title{
+  align-self: center !important;
+  display: inline-block;
+  margin: auto;
+  width: 85%;
+  text-align: center;
+}
+
+.privacy-back{
+  font-weight: bold;
+  font-size: 20px;
+}

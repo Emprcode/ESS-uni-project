@@ -1,0 +1,28 @@
+#about-wrapper{
+  margin-top: 7% !important;
+  width: 30%;
+  align-self: center !important;
+  margin: auto;
+  text-align: center;
+  height: 500px;
+}
+
+.imgcontainer img{
+  width: 70% !important;
+  margin-top: 5%;
+}
+
+.back, .about-title{
+  display: inline-block;
+}
+
+.back{
+  transform: translateX(-180%);
+}
+
+.about-content{
+  width: 70%;
+  margin: auto;
+  text-align: justify !important;
+}
+

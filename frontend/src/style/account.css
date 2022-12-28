@@ -1,0 +1,38 @@
+#account-wrapper{
+  align-self: center;
+  margin: auto;
+  width: 60%;
+  margin-top: 5%;
+  padding: 4% 0%;
+}
+
+.account-title{
+  text-align: center;
+  margin: auto;
+  align-self: center;
+  width: 80%;
+}
+
+.account-content{
+  width: 80%;
+  margin: auto;
+  
+}
+
+.acc-btn{
+  border-radius: 10px;
+  padding: 2%;
+  box-shadow: 0 5px 0 #0cadc6;
+  background-color: #106370;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
+
+.backbtn{
+  font-weight: bold;
+  margin-left: 2%;
+}
